@@ -18,3 +18,15 @@ Week 2: Blog Uploads and Task Analysis:
 📑 Followed detailed instructions provided by the company for performing tasks.
 🌐 Utilized online resources to gather information and develop innovative solutions.
 👨‍🏫 Worked on assignments under mentor’s guidance, improving organizational skills and confidence in task execution.
+
+Week 3: Java Projects & Blog Development
+
+💻 Worked on various Java tasks and completed a small project, deepening my understanding of Object-Oriented Programming (OOP) principles, including inheritance, polymorphism, and encapsulation.
+📊 Analyzed and optimized Java code for performance improvements and better resource management.
+🔍 Conducted research and gathered information relevant to my blog's audience for content creation.
+📚 Reviewed existing literature and resources to ensure the accuracy and relevance of blog content.
+✍️ Authored a technical blog post for CodeSpeedy’s official website, enhancing my ability to explain technical ideas clearly and effectively.
+📝 Detailed specific tasks related to blog creation, including defining the scope and objectives.
+✒️ Discussed the writing process, including drafting, editing, and finalizing content for my blog’s audience.
+🧩 Incorporated SEO best practices, such as keyword research, meta descriptions, and internal/external linking.
+⚙️ Utilized SEO analysis tools like Yoast SEO and Google Analytics to optimize content through keyword optimization and content creation.
