@@ -30,3 +30,14 @@ Week 3: Java Projects & Blog Development
 ✒️ Discussed the writing process, including drafting, editing, and finalizing content for my blog’s audience.
 🧩 Incorporated SEO best practices, such as keyword research, meta descriptions, and internal/external linking.
 ⚙️ Utilized SEO analysis tools like Yoast SEO and Google Analytics to optimize content through keyword optimization and content creation.
+
+Week 4: Developing a Chat App & Blog Enhancement
+
+🌐 Started to begin with developing a real-time chat application using Java's GUI capabilities, enhancing skills in graphical user interface (GUI) development.
+📲 Implemented real-time messaging functionality using socket programming or a similar technology.
+📝 Enhanced technical blog posts to effectively communicate complex concepts and improve documentation skills.
+📊 Researched and analyzed the previous week's blog performance.
+📝 Made necessary changes and created additional blog posts based on mentor feedback.
+📈 Integrated researched keywords to enhance blog visibility and SEO performance.
+📘 Optimized blogs for readability and user engagement, following Yoast SEO's recommendations.
+🚀 Gained valuable insights into Java programming and technical communication.
